@@ -21,46 +21,408 @@ Evans, Robley D. _The Atomic Nucleus_. New York, NY: McGraw-Hill, 1982, pp. 972.
 Grading Policy
 --------------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Problem Sets | 40% |
-| Quizzes (20% each) | 60% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Sets
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quizzes (20% each)
+{{< tdclose >}}
+{{< tdopen >}}
+60%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
 
 Calendar
 --------
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Basic Nuclear Concepts |  |
-| {{< td-colspan 3 >}}**Quantum Mechanical Description of Nuclei**{{< /td-colspan >}} |||
-| 2 | Schrödinger Wave Equation |  |
-| 3 | Bound States in One Dimensional Systems – Particle in a Square Well | Problem set 1 due |
-| 4 | Bound States in Three Dimensions - Orbital Angular Momentum |  |
-| 5 | Barrier Penetration | Problem set 2 due two days after Lec #5 |
-| 6 | The Neutron-Proton System: Bound State of the Deuteron |  |
-| 7 | Overview of Cross Section Calculation | Problem set 3 due |
-| 8 | Neutron-Proton Scattering |  |
-| 9 | Quiz 1 Review | Problem set 4 due |
-|  | Quiz 1 (Lec #1-8, Closed Book) |  |
-| {{< td-colspan 3 >}}**Nuclear Binding, Stability and Decay**{{< /td-colspan >}} |||
-| 10 | Nuclear Shell Model |  |
-| 11 | Nuclear Binding Energy and Stability | Problem set 5 due two days after Lec #11 |
-| 12 | Binding Energy and Mass Parabolas |  |
-| {{< td-colspan 3 >}}**Interaction of Radiation with Matter**{{< /td-colspan >}} |||
-| 13 | Radioactive-Series Decay | Problem set 6 due |
-| 14 | Charged Particle Interactions: Stopping Power, Collision and Ionization |  |
-| 15 | Charged Particle Interactions: Radiation Loss, Range |  |
-| 16 | Neutron Interactions: Q-equation and Elastic Scattering |  |
-| 17 | Quiz 2 Review | Problem set 7 due |
-|  | Quiz 2 (Lec #9-15, Closed Book) |  |
-| 18 | Neutron Interactions: Energy, Angular Distributions, Thermal Motions |  |
-| 19 | Gamma Interactions: Compton Scattering |  |
-| 20 | Gamma Interactions: Photoelectric Effect and Pair Production |  |
-| 21 | Detection of Nuclear Radiation: Pulse Height Spectra |  |
-| {{< td-colspan 3 >}}**Nuclear Processes**{{< /td-colspan >}} |||
-| 22 | Nuclear Decays |  |
-| 23 | Nuclear Reactions: Energetics and Compound Nucleus | Problem set 8 due |
-| 24 | Quiz 3 Review |  |
-|  | Quiz 3 (Lec #16-21, Closed Book) |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Basic Nuclear Concepts
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Quantum Mechanical Description of Nuclei**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Schrödinger Wave Equation
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Bound States in One Dimensional Systems – Particle in a Square Well
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Bound States in Three Dimensions - Orbital Angular Momentum
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Barrier Penetration
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 2 due two days after Lec #5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+The Neutron-Proton System: Bound State of the Deuteron
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Overview of Cross Section Calculation
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Neutron-Proton Scattering
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 1 Review
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 1 (Lec #1-8, Closed Book)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Nuclear Binding, Stability and Decay**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Nuclear Shell Model
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Nuclear Binding Energy and Stability
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 5 due two days after Lec #11
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Binding Energy and Mass Parabolas
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Interaction of Radiation with Matter**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Radioactive-Series Decay
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 6 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Charged Particle Interactions: Stopping Power, Collision and Ionization
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Charged Particle Interactions: Radiation Loss, Range
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Neutron Interactions: Q-equation and Elastic Scattering
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 2 Review
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 7 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 2 (Lec #9-15, Closed Book)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Neutron Interactions: Energy, Angular Distributions, Thermal Motions
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Gamma Interactions: Compton Scattering
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Gamma Interactions: Photoelectric Effect and Pair Production
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Detection of Nuclear Radiation: Pulse Height Spectra
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Nuclear Processes**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Nuclear Decays
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Nuclear Reactions: Energetics and Compound Nucleus
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 8 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 3 Review
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 3 (Lec #16-21, Closed Book)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
