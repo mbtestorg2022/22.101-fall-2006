@@ -4,6 +4,7 @@ description: 'This resource is about Charged-Particle Interactions: Stopping Pow
   Collisions and Ionization.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/22-101-applied-nuclear-physics-fall-2006/179f7a2618d601b9b37c72dab4c5d747_lec14.pdf
 file_type: application/pdf
+parent_uid: f2e251a4-20f6-3423-44e1-807ac1684fca
 resourcetype: Document
 title: lec14.pdf
 uid: 179f7a26-18d6-01b9-b37c-72dab4c5d747

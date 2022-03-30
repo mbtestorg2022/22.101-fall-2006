@@ -3,6 +3,7 @@ content_type: resource
 description: This resource is about problem set 7.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/22-101-applied-nuclear-physics-fall-2006/d68de5b2ce5023aafa3f3d2c2c83fde3_ps7.pdf
 file_type: application/pdf
+parent_uid: 75ddc6ce-282e-ff89-d8ac-49457a76f098
 resourcetype: Document
 title: ps7.pdf
 uid: d68de5b2-ce50-23aa-fa3f-3d2c2c83fde3

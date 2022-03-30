@@ -4,6 +4,7 @@ description: 'This resource is about Detection of Nuclear Radiation: Pulse Heigh
   Spectra.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/22-101-applied-nuclear-physics-fall-2006/fb3ffd55107ea6aef5dbfdf99b21905d_lec21.pdf
 file_type: application/pdf
+parent_uid: f2e251a4-20f6-3423-44e1-807ac1684fca
 resourcetype: Document
 title: lec21.pdf
 uid: fb3ffd55-107e-a6ae-f5db-fdf99b21905d
